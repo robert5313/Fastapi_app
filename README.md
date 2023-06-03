@@ -7,3 +7,21 @@ API stands for Application Programming Interface. An API is a software intermedi
 An API is like a waiter in a restaurant. The waiter takes your order and sends it to the kitchen. The kitchen then prepares the food and sends it back to the waiter. The waiter then brings the food to you. 
 
 In the same way, an API takes a request from an application and sends it to a server. The server then processes the request and sends the data back to the application. The application then interprets the data and presents it to the user.
+
+
+
+#requirements
+
+``
+
+# install fastapi
+
+pip install fastapi
+
+
+
+
+# install uvicorn
+pip install uvicorn
+
+``
